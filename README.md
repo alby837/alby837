@@ -10,7 +10,7 @@ I enjoy learning new technologies, building practical projects, and improving my
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science and Business System Student
+- 🎓 Computer Science and Business System Student at Christ College of Engineering,Irinjalkuda
 - 💻 Interested in Software & Web Development
 - 🐍 Currently working with Python and Django
 - 🌱 Continuously learning and improving my development skills
